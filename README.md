@@ -12,9 +12,9 @@ During the course, students will learn how to apply statistical models and machi
 ### Syllabus 
 
 1. Intoduction: Customer Life Cycle, Source of Customer Data, Exploratory Data Analysis
-2. Estimating Time of Purchase
-3. RFM Segmentation
-4. Customer Lifetime Value
+2. RFM Segmentation
+3. Customer Lifetime Value
+4. Estimating Time of Purchase
 5. Identifying Loyal Customers, Loyalty Trends with Cohort Analysis
 6․ Customer Segmentation with Clustering, Segments Profiling
 7. Customer Churn Analysis and Prediction
