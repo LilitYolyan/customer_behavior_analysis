@@ -2,7 +2,7 @@
 
 # Customer Behavior Analysis
 
-This course was created for Data Science for Business(YSU) students. 
+This course was designed for students of Data Science for Business (YSU).
 
 ### Description
 
