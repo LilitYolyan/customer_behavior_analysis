@@ -1,4 +1,4 @@
-# Introduction: Customer behavior and data science 
+# Introduction: Customer Behavior and Data Science 
 
 
 **Outline:**
