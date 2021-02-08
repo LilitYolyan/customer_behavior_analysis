@@ -11,6 +11,7 @@ During the course, students will learn how to apply statistical models and machi
 
 ### Syllabus 
 
-1. Introduction: Customer Behavior and Data Science
+1. [Introduction: Customer Behavior and Data Science](https://github.com/LilitYolyan/customer_behavior_analysis/blob/master/Week_1_Introduction_Customer_Behavior.md)
+2. [Data Preparation for Customer Behavior Analysis](https://github.com/LilitYolyan/customer_behavior_analysis/blob/master/Week_2_Data_Preparation_and_EDA.ipynb)
 
 
