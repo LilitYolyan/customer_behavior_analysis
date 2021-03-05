@@ -14,5 +14,6 @@ During the course, students will learn how to apply statistical models and machi
 1. [Introduction: Customer Behavior and Data Science](https://github.com/LilitYolyan/customer_behavior_analysis/blob/master/Week_1_Introduction_Customer_Behavior.md)
 2. [Data Preparation for Customer Behavior Analysis](https://github.com/LilitYolyan/customer_behavior_analysis/blob/master/Week_2_Data_Preparation_and_EDA.ipynb)
 3. [Cohort Analysis: Exploring Consumer Behavior Over Time](https://github.com/LilitYolyan/customer_behavior_analysis/blob/master/Week_3_Cohort_Analysis.ipynb) 
+4. [Basics of Customer Segmentation: RFM analysis](https://github.com/LilitYolyan/customer_behavior_analysis/blob/master/Week_4_Basics_of_Segmentation_RFM.ipynb)
 
 
