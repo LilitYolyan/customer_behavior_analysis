@@ -16,5 +16,6 @@ During the course, students will learn how to apply statistical models and machi
 3. [Cohort Analysis: Exploring Consumer Behavior Over Time](https://github.com/LilitYolyan/customer_behavior_analysis/blob/master/Week_3_Cohort_Analysis.ipynb) 
 4. [Basics of Customer Segmentation: RFM analysis](https://github.com/LilitYolyan/customer_behavior_analysis/blob/master/Week_4_Basics_of_Segmentation_RFM.ipynb)
 5. [Customer Segmentation Part 2: Clustering algorithms](https://github.com/LilitYolyan/customer_behavior_analysis/blob/master/Week_5_Segmentation_with_Clustering.ipynb)
+6. [Customer Churn: Prediction and Analysis](https://github.com/LilitYolyan/customer_behavior_analysis/blob/master/Week_6_Churn_Analysis_Prediction.ipynb)
 
 
