@@ -18,5 +18,6 @@ During the course, students will learn how to apply statistical models and machi
 5. [Customer Segmentation Part 2: Clustering algorithms](https://github.com/LilitYolyan/customer_behavior_analysis/blob/master/Week_5_Segmentation_with_Clustering.ipynb)
 6. [Customer Churn: Prediction and Analysis](https://github.com/LilitYolyan/customer_behavior_analysis/blob/master/Week_6_Churn_Analysis_Prediction.ipynb)
 7. [Next Purchase Prediction](https://github.com/LilitYolyan/customer_behavior_analysis/blob/master/Week_7_Next_Purchase_Prediction.ipynb)
+8. [Market Basket Analysis](https://github.com/LilitYolyan/customer_behavior_analysis/blob/master/Week_8_Association_Rules.ipynb) 
 
 
