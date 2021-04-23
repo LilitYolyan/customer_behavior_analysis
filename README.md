@@ -19,5 +19,6 @@ During the course, students will learn how to apply statistical models and machi
 6. [Customer Churn: Prediction and Analysis](https://github.com/LilitYolyan/customer_behavior_analysis/blob/master/Week_6_Churn_Analysis_Prediction.ipynb)
 7. [Next Purchase Prediction](https://github.com/LilitYolyan/customer_behavior_analysis/blob/master/Week_7_Next_Purchase_Prediction.ipynb)
 8. [Market Basket Analysis](https://github.com/LilitYolyan/customer_behavior_analysis/blob/master/Week_8_Association_Rules.ipynb) 
+9. [Choice Modeling and Conjoint Analysis](https://github.com/LilitYolyan/customer_behavior_analysis/blob/master/Week_9_Choice_Modeling_Conjoint_analysis.ipynb)
 
 
